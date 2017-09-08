@@ -1,0 +1,18 @@
+{
+  "name": "bright-yellow-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Bright yellow theme for atom-text-editor",
+  "keywords": [
+    "syntax",
+    "theme",
+    "bright",
+    "yellow",
+    "bright-yellow-syntax"
+  ],
+  "repository": "https://github.com/StevenCopeland/bright-yellow-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
