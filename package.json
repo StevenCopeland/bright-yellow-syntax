@@ -1,7 +1,7 @@
 {
   "name": "bright-yellow-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Bright yellow theme for atom-text-editor",
   "keywords": [
     "syntax",
